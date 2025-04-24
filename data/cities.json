@@ -35,6 +35,78 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2025-04-24T07:50:21.828Z",
+      "notes": "gaw",
+      "position": {
+        "lat": "35.72986153843338",
+        "lng": "139.64395523071292"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Bourem",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2025-04-24T08:04:46.213Z",
+      "notes": "fex",
+      "position": {
+        "lat": "17.936928637549443",
+        "lng": "0.43945312500000006"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Evensk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-04-12T08:14:32.000Z",
+      "notes": "ga",
+      "position": {
+        "lat": "63.27318217465046",
+        "lng": "157.93945312500003"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Topki",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-04-24T08:16:05.832Z",
+      "notes": "ga",
+      "position": {
+        "lat": "55.3791104480105",
+        "lng": "85.78125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Bushehr",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-04-24T08:18:15.461Z",
+      "notes": "iran",
+      "position": {
+        "lat": "28.92163128242129",
+        "lng": "50.97656250000001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Gobabis",
+      "country": "Namibia",
+      "emoji": "🇳🇦",
+      "date": "2025-04-24T08:18:23.486Z",
+      "notes": "ga",
+      "position": {
+        "lat": "-22.59372606392931",
+        "lng": "18.281250000000004"
+      },
+      "id": 98443203
     }
   ]
 }
